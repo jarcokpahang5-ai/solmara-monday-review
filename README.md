@@ -6,7 +6,13 @@ Entry for the make.fun competition **Monday, Reviewed in One Line** (`u-zeroxfiv
 
 > Monday showed up uninvited, cancelled my weekend's sequel, and the coffee machine filed for divorce.
 
-(100 characters — within the competition's limit of 200.)
+(134 characters — within the competition's limit of 200.)
+
+## Revision
+
+Revised: the review now closes with "One star. Would not Monday again." for
+a proper review-style punchline, and `main.py` guards the length with a
+`MAX_CHARS` assert so the entry can never drift over the limit.
 
 ## Run it
 
